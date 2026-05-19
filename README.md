@@ -1,5 +1,7 @@
 # About
-
 This is the github repo to host my github website.
 
-The purpose of this is to act as a live resume.
+# Credits
+
+Website template from Ram Maheshwari
+Editing was aided by Google Gemini
